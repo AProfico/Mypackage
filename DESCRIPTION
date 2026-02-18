@@ -8,4 +8,4 @@ Depends: R (>= 3.4.0)
 License: GPL-2
 Author: Antonio Profico [aut, cre],
 Maintainer: Antonio Profico <antonio.profico@gmail.com>
-
+RoxygenNote: 7.3.3
