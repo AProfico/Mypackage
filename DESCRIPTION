@@ -1,0 +1,11 @@
+Package: Mypackage
+Type: Package
+Title: Title
+Version: 0.9
+Authors@R: c(person(given="Antonio", family="Profico",email = "antonio.profico@gmail.com", role=c("aut", "cre")))
+Description: Add description
+Depends: R (>= 3.4.0)
+License: GPL-2
+Author: Antonio Profico [aut, cre],
+Maintainer: Antonio Profico <antonio.profico@gmail.com>
+
